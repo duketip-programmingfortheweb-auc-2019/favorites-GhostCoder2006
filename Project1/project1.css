@@ -1,0 +1,77 @@
+.nav {
+    background-color: dimgray;
+    color: navy;
+    font-family: cursive;
+    font-size: 25px;
+    border-style: solid;
+    border-color: darkgoldenrod;
+    border-width: 10px;
+    box-shadow: 10px 20px;
+}
+
+h1 {
+    margin: 20px;
+    padding-left: 10px;
+    padding-top: 5px;
+}
+
+a {
+    margin: 20px;
+    padding-top: 0px;
+}
+body {
+    background-color: rgb(36, 112, 138);
+}
+
+h2 {
+    text-align: center;
+    color: darkgoldenrod;
+    font-size: 28px;
+    font-family: fantasy;
+    margin-top: 50px;
+    margin-bottom:-100px;
+}
+
+#homepg {
+    margin-right: 1200px;
+    margin-top:140px;
+}
+
+.about {
+    background-color: rgba(22, 64, 78, 0.61);
+    margin-right: 1900px;
+    color: navy;
+    padding: 50px;
+    font-size: 25px;
+    font-family: fantasy;
+    margin-left: 80px;
+    margin-top: 450px;
+    position: relative;
+    bottom: 300px;
+}
+
+.three {
+    background-color: rgba(22, 64, 78, 0.61);
+    margin-right: 1300px;
+    color: navy;
+    padding: 50px;
+    font-size: 25px;
+    font-family: fantasy;
+    margin-left: 100px;
+    margin-top: 200px;
+    margin-bottom: 100px;
+    position: relative;
+    left: 700px;
+    bottom: 1150px;
+}
+
+img {
+    position: relative;
+    left: 1800px;
+    top: 140px;
+    width: 300px;
+    display:inline-block;
+}
+
+
+
